@@ -3,10 +3,10 @@ package io.github.laurarebecasantos.ProjectSpringBootJava;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
-//@SpringBootTest
+@SpringBootTest
 class ProjectSpringBootJavaApplicationTests {
 
-	//@Test
+	@Test
 	void contextLoads() {
 	}
 
